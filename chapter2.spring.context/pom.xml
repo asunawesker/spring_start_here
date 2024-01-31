@@ -10,6 +10,7 @@
 
   <modules>
     <module>bean.annotation</module>
+    <module>bean.stereotype</module>
   </modules>
 
   <dependencies>
