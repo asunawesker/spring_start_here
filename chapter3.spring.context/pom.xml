@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.asunawesker</groupId>
+  <artifactId>chapter3.spring.context</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+    <module>relationships.among.beans</module>
+    <module>relationships.among.beans/direct.method.call</module>
+    <module>relationships.among.beans/method.parameters</module>
+    <module>relationships.among.beans/direct.method.call</module>
+  </modules>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context</artifactId>
+      <version>5.2.7.RELEASE</version>
+    </dependency>
+  </dependencies>
+</project>
