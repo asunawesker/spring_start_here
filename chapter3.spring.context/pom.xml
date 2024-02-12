@@ -11,6 +11,10 @@
     <module>relationships.among.beans/direct.method.call</module>
     <module>relationships.among.beans/method.parameters</module>
     <module>relationships.among.beans/direct.method.call</module>
+    <module>autowired.annotation</module>
+      <module>autowired.annotation/inject.values.classfields</module>
+    <module>autowired.annotation/autowired.annotation.inject.values.constructor</module>
+    <module>autowired.annotation/autowired.annotation.inject.values.setter</module>
   </modules>
 
   <dependencies>
