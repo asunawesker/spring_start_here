@@ -8,6 +8,6 @@
         <relativePath>../../pom.xml</relativePath>
     </parent>
 
-    <artifactId>relationships.among.beans.method.parameters</artifactId>
+    <artifactId>autowired.qualifier</artifactId>
     <packaging>jar</packaging>
 </project>

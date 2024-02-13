@@ -8,6 +8,6 @@
         <relativePath>../../pom.xml</relativePath>
     </parent>
 
-    <artifactId>autowired.annotation.inject.values.classfields</artifactId>
+    <artifactId>values.classfields</artifactId>
     <packaging>jar</packaging>
 </project>

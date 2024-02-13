@@ -8,14 +8,17 @@
   <packaging>pom</packaging>
   <modules>
     <module>relationships.among.beans</module>
-      <module>relationships.among.beans/direct.method.call</module>
       <module>relationships.among.beans/method.parameters</module>
       <module>relationships.among.beans/direct.method.call</module>
-    <module>autowired.annotation</module>
-      <module>autowired.annotation/autowired.annotation.inject.values.classfields</module>
-      <module>autowired.annotation/autowired.annotation.inject.values.constructor</module>
-      <module>autowired.annotation/autowired.annotation.inject.values.setter</module>
+    <module>inject.autowired.annotation</module>
+      <module>inject.autowired.annotation/values.classfields</module>
+      <module>inject.autowired.annotation/values.constructor</module>
+      <module>inject.autowired.annotation/values.setter</module>
     <module>circular.dependencies</module>
+    <module>choosing.multiple.beans</module>
+      <module>choosing.multiple.beans/beans.method.name</module>
+      <module>choosing.multiple.beans/qualifier.name</module>
+    <module>choosing.multiple.beans/autowired.qualifier</module>
   </modules>
 
   <dependencies>

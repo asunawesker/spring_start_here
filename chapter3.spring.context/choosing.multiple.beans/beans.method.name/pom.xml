@@ -5,12 +5,13 @@
         <groupId>com.asunawesker</groupId>
         <artifactId>chapter3.spring.context</artifactId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../../pom.xml</relativePath>
     </parent>
 
-    <artifactId>autowired.annotation</artifactId>
+    <artifactId>beans.method.name</artifactId>
     <packaging>jar</packaging>
 
-    <name>autowired.annotation</name>
+    <name>choosing.multiple.beans.matches.method.name</name>
     <url>http://maven.apache.org</url>
 
     <properties>

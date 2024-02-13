@@ -8,6 +8,5 @@
         <relativePath>../../pom.xml</relativePath>
     </parent>
 
-    <artifactId>relationships.among.beans.method.parameters</artifactId>
-    <packaging>jar</packaging>
+    <artifactId>values.constructor</artifactId>
 </project>
