@@ -1,4 +1,4 @@
-package chapter4.spring.context.dependency.injection.abstractions.dtos;
+package chapter4.spring.context.object.responsabilities.stereotype.annotations.dtos;
 
 public class Comment {
 

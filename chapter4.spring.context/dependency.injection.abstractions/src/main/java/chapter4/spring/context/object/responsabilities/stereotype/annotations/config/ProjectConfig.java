@@ -1,4 +1,4 @@
-package chapter4.spring.context.dependency.injection.abstractions.config;
+package chapter4.spring.context.object.responsabilities.stereotype.annotations.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

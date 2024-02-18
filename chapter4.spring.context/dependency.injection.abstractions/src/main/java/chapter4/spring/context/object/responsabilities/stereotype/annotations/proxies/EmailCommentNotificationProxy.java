@@ -1,6 +1,6 @@
-package chapter4.spring.context.dependency.injection.abstractions.proxies;
+package chapter4.spring.context.object.responsabilities.stereotype.annotations.proxies;
 
-import chapter4.spring.context.dependency.injection.abstractions.dtos.Comment;
+import chapter4.spring.context.object.responsabilities.stereotype.annotations.dtos.Comment;
 import org.springframework.stereotype.Component;
 
 @Component

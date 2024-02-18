@@ -1,8 +1,8 @@
-package chapter4.spring.context.dependency.injection.abstractions.services;
+package chapter4.spring.context.object.responsabilities.stereotype.annotations.services;
 
-import chapter4.spring.context.dependency.injection.abstractions.dtos.Comment;
-import chapter4.spring.context.dependency.injection.abstractions.proxies.CommentNotificationProxy;
-import chapter4.spring.context.dependency.injection.abstractions.repositories.CommentRepository;
+import chapter4.spring.context.object.responsabilities.stereotype.annotations.dtos.Comment;
+import chapter4.spring.context.object.responsabilities.stereotype.annotations.proxies.CommentNotificationProxy;
+import chapter4.spring.context.object.responsabilities.stereotype.annotations.repositories.CommentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

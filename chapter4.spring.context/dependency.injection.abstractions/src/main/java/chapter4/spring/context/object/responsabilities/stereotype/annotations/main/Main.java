@@ -1,8 +1,8 @@
-package chapter4.spring.context.dependency.injection.abstractions.main;
+package chapter4.spring.context.object.responsabilities.stereotype.annotations.main;
 
-import chapter4.spring.context.dependency.injection.abstractions.config.ProjectConfig;
-import chapter4.spring.context.dependency.injection.abstractions.services.CommentService;
-import chapter4.spring.context.dependency.injection.abstractions.dtos.Comment;
+import chapter4.spring.context.object.responsabilities.stereotype.annotations.config.ProjectConfig;
+import chapter4.spring.context.object.responsabilities.stereotype.annotations.services.CommentService;
+import chapter4.spring.context.object.responsabilities.stereotype.annotations.dtos.Comment;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main {

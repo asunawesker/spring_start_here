@@ -17,6 +17,7 @@
     <module>
       autowired.multiple.implementation.abstractition/autowired.multiple.implementation.abstractition.qualifier
     </module>
+    <module>object.responsibilities.stereotype.annotations</module>
   </modules>
 
   <dependencies>

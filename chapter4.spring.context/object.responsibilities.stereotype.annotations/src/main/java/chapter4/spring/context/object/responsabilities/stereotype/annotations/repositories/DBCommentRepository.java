@@ -1,9 +1,10 @@
-package chapter4.spring.context.dependency.injection.abstractions.repositories;
+package chapter4.spring.context.object.responsabilities.stereotype.annotations.repositories;
 
-import chapter4.spring.context.dependency.injection.abstractions.dtos.Comment;
+import chapter4.spring.context.object.responsabilities.stereotype.annotations.dtos.Comment;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
 
-@Component
+@Repository
 public class DBCommentRepository implements CommentRepository {
     @Override
     public void storeComment(Comment comment) {
