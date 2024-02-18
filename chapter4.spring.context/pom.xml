@@ -6,7 +6,24 @@
   <artifactId>chapter4.spring.context</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
+
   <modules>
     <module>interfaces.define.contracts</module>
+    <module>dependency.injection.abstractions</module>
+    <module>autowired.multiple.implementation.abstractition</module>
+    <module>
+      autowired.multiple.implementation.abstractition/autowired.multiple.implementation.abstractition.primary
+    </module>
+    <module>
+      autowired.multiple.implementation.abstractition/autowired.multiple.implementation.abstractition.qualifier
+    </module>
   </modules>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context</artifactId>
+      <version>5.2.6.RELEASE</version>
+    </dependency>
+  </dependencies>
 </project>

@@ -7,10 +7,6 @@ import chapter4.spring.context.interfaces.define.contracts.repositories.CommentR
 import chapter4.spring.context.interfaces.define.contracts.repositories.DBCommentRepository;
 import chapter4.spring.context.interfaces.define.contracts.services.CommentService;
 
-/**
- * Hello world!
- *
- */
 public class Main {
     public static void main( String[] args ) {
         CommentRepository commentRepository = new DBCommentRepository();
@@ -18,6 +14,6 @@ public class Main {
 
         CommentService commentService = new CommentService(commentRepository, commentNotificationProxy);
 
-        commentService.publishComment(new Comment("Benito Taibo", "Persona normal"));
+        commentService.publishComment(new Comment("Benito Taibo", "Persona Normal es un gran libro"));
     }
 }

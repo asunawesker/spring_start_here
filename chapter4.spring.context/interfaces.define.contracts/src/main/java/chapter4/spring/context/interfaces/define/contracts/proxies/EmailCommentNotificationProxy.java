@@ -6,6 +6,6 @@ import chapter4.spring.context.interfaces.define.contracts.repositories.CommentR
 public class EmailCommentNotificationProxy implements CommentNotificationProxy {
     @Override
     public void sendComment(Comment comment) {
-        System.out.println("Sending comment");
+        System.out.println("Sending comment" + comment.getText());
     }
 }

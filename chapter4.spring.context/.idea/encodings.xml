@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/autowire.multiple.implementations.beans/chapter4.spring.context.autowire.multiple.implementations.beans.primary/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autowire.multiple.implementations.beans/chapter4.spring.context.autowire.multiple.implementations.beans.primary/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autowire.multiple.implementations.beans/chapter4.spring.context.autowire.multiple.implementations.beans.qualifier/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autowire.multiple.implementations.beans/chapter4.spring.context.autowire.multiple.implementations.beans.qualifier/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autowire.multiple.implementations.beans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autowire.multiple.implementations.beans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autowired.multiple.implementation.abstraction/autowired.multiple.implementation.abstraction.primary/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autowired.multiple.implementation.abstraction/autowired.multiple.implementation.abstraction.primary/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autowired.multiple.implementation.abstraction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autowired.multiple.implementation.abstraction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autowired.multiple.implementation.abstractition/autowired.multiple.implementation.abstractition.primary/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autowired.multiple.implementation.abstractition/autowired.multiple.implementation.abstractition.primary/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autowired.multiple.implementation.abstractition/autowired.multiple.implementation.abstractition.qualifier/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autowired.multiple.implementation.abstractition/autowired.multiple.implementation.abstractition.qualifier/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autowired.multiple.implementation.abstractition/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/autowired.multiple.implementation.abstractition/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dependency.injection.abstractions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dependency.injection.abstractions/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/interfaces.define.contracts/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/interfaces.define.contracts/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />

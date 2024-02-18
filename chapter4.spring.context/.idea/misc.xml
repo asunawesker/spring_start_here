@@ -5,7 +5,15 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/autowired.multiple.implementation.abstractition/autowired.multiple.implementation.abstractition.primary/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/autowire.multiple.implementations.beans/pom.xml" />
+        <option value="$PROJECT_DIR$/autowired.multiple.implementation.abstraction/autowired.multiple.implementation.abstraction.primary/pom.xml" />
+        <option value="$PROJECT_DIR$/autowired.multiple.implementation.abstraction/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
