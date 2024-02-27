@@ -5,19 +5,25 @@
         <groupId>com.asunawesker</groupId>
         <artifactId>chapter5.bean.scopes.life.cycle</artifactId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../../pom.xml</relativePath>
     </parent>
 
-    <artifactId>singleton.bean.scope</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>eager.lazy.instantiation</artifactId>
+    <packaging>jar</packaging>
 
-    <name>singleton.bean.scope</name>
+    <name>eager.lazy.instantiation</name>
     <url>http://maven.apache.org</url>
-    <modules>
-        <module>singleton.beans.work</module>
-        <module>singleton.beans.work/bean.annotation</module>
-    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>3.8.1</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 </project>
