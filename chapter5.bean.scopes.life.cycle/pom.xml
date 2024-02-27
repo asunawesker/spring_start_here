@@ -12,6 +12,7 @@
   <modules>
     <module>singleton.bean.scope</module>
       <module>singleton.bean.scope/eager.lazy.instantiation</module>
+      <module>prototype.bean.scope</module>
   </modules>
 
   <properties>

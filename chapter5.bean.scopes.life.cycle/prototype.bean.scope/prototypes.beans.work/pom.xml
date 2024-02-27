@@ -3,14 +3,14 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.asunawesker</groupId>
-        <artifactId>singleton.beans.work</artifactId>
+        <artifactId>prototype.bean.scope</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>stereotype.annotation</artifactId>
+    <artifactId>prototypes.beans.work</artifactId>
     <packaging>jar</packaging>
 
-    <name>stereotype.annotation</name>
+    <name>prototypes.beans.work</name>
     <url>http://maven.apache.org</url>
 
     <properties>

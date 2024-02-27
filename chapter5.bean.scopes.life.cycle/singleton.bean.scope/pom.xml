@@ -14,7 +14,7 @@
     <url>http://maven.apache.org</url>
     <modules>
         <module>singleton.beans.work</module>
-        <module>singleton.beans.work/bean.annotation</module>
+        <module>singleton.beans.work/singleton.bean.annotation</module>
     </modules>
 
     <properties>

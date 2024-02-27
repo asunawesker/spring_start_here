@@ -3,15 +3,14 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.asunawesker</groupId>
-        <artifactId>singleton.bean.scope</artifactId>
+        <artifactId>singleton.beans.work</artifactId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath>../../pom.xml</relativePath>
     </parent>
 
-    <artifactId>bean.annotation</artifactId>
+    <artifactId>singleton.stereotype.annotation</artifactId>
     <packaging>jar</packaging>
 
-    <name>bean.annotation</name>
+    <name>stereotype.annotation</name>
     <url>http://maven.apache.org</url>
 
     <properties>

@@ -5,17 +5,14 @@
         <groupId>com.asunawesker</groupId>
         <artifactId>singleton.bean.scope</artifactId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../../pom.xml</relativePath>
     </parent>
 
-    <artifactId>singleton.beans.work</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>singleton.bean.annotation</artifactId>
+    <packaging>jar</packaging>
 
-    <name>singleton.beans.work</name>
+    <name>bean.annotation</name>
     <url>http://maven.apache.org</url>
-    <modules>
-        <module>singleton.stereotype.annotation</module>
-        <module>singleton.bean.annotation</module>
-    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

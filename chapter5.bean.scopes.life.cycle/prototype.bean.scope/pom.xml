@@ -3,18 +3,19 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.asunawesker</groupId>
-        <artifactId>singleton.bean.scope</artifactId>
+        <artifactId>chapter5.bean.scopes.life.cycle</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>singleton.beans.work</artifactId>
+    <artifactId>prototype.bean.scope</artifactId>
     <packaging>pom</packaging>
 
-    <name>singleton.beans.work</name>
+    <name>prototype.bean.scope</name>
     <url>http://maven.apache.org</url>
     <modules>
-        <module>singleton.stereotype.annotation</module>
-        <module>singleton.bean.annotation</module>
+        <module>prototypes.beans.work</module>
+        <module>prototypes.beans.work/prototype.bean.annotation</module>
+        <module>prototypes.beans.work/prototype.stereotype.annotation</module>
     </modules>
 
     <properties>
